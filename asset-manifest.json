@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.63f412f4.chunk.css",
+    "main.js": "/my-portfolio/static/js/main.f2c710eb.chunk.js",
+    "main.js.map": "/my-portfolio/static/js/main.f2c710eb.chunk.js.map",
+    "runtime-main.js": "/my-portfolio/static/js/runtime-main.2c79d45b.js",
+    "runtime-main.js.map": "/my-portfolio/static/js/runtime-main.2c79d45b.js.map",
+    "static/css/2.357e4de9.chunk.css": "/my-portfolio/static/css/2.357e4de9.chunk.css",
+    "static/js/2.d161169d.chunk.js": "/my-portfolio/static/js/2.d161169d.chunk.js",
+    "static/js/2.d161169d.chunk.js.map": "/my-portfolio/static/js/2.d161169d.chunk.js.map",
+    "static/js/3.f8cfede4.chunk.js": "/my-portfolio/static/js/3.f8cfede4.chunk.js",
+    "static/js/3.f8cfede4.chunk.js.map": "/my-portfolio/static/js/3.f8cfede4.chunk.js.map",
+    "index.html": "/my-portfolio/index.html",
+    "static/css/2.357e4de9.chunk.css.map": "/my-portfolio/static/css/2.357e4de9.chunk.css.map",
+    "static/css/main.63f412f4.chunk.css.map": "/my-portfolio/static/css/main.63f412f4.chunk.css.map",
+    "static/js/2.d161169d.chunk.js.LICENSE.txt": "/my-portfolio/static/js/2.d161169d.chunk.js.LICENSE.txt",
+    "static/media/PortfolioDp.66e64500.jpeg": "/my-portfolio/static/media/PortfolioDp.66e64500.jpeg",
+    "static/media/bootstrap web.5e0d5c90.png": "/my-portfolio/static/media/bootstrap web.5e0d5c90.png",
+    "static/media/cocktails.f887eaac.png": "/my-portfolio/static/media/cocktails.f887eaac.png",
+    "static/media/front-end.83346475.png": "/my-portfolio/static/media/front-end.83346475.png",
+    "static/media/glassweb.687a7092.png": "/my-portfolio/static/media/glassweb.687a7092.png",
+    "static/media/notebook.1e712a52.png": "/my-portfolio/static/media/notebook.1e712a52.png",
+    "static/media/programmer.32876dc6.png": "/my-portfolio/static/media/programmer.32876dc6.png",
+    "static/media/react.35639ed9.png": "/my-portfolio/static/media/react.35639ed9.png",
+    "static/media/stripe menu.5a6445da.png": "/my-portfolio/static/media/stripe menu.5a6445da.png",
+    "static/media/webImage.5f069dcd.jpg": "/my-portfolio/static/media/webImage.5f069dcd.jpg",
+    "static/media/wethefoodie.aa9b60c2.png": "/my-portfolio/static/media/wethefoodie.aa9b60c2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c79d45b.js",
+    "static/css/2.357e4de9.chunk.css",
+    "static/js/2.d161169d.chunk.js",
+    "static/css/main.63f412f4.chunk.css",
+    "static/js/main.f2c710eb.chunk.js"
+  ]
+}
